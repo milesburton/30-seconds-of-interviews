@@ -1,3 +1,20 @@
+# ⚠️ LEGACY FORK - CONTAINS CRITICAL SECURITY VULNERABILITIES
+
+> **WARNING:** This forked repository contains **7 CRITICAL** and **10 HIGH** security vulnerabilities and is no longer maintained.
+
+## 🛑 DO NOT USE THIS REPOSITORY
+
+- ❌ **DO NOT** clone and run this code
+- ❌ **DO NOT** use in production
+- ❌ **DO NOT** process untrusted input with this code
+- ✅ **See [SECURITY.md](SECURITY.md) for full security details**
+
+**For the maintained version, visit the original upstream repository:**
+- Original: https://github.com/Chalarangelo/30-seconds-of-interviews
+- Website: https://30secondsofinterviews.org/
+
+---
+
 <a href="https://30secondsofinterviews.org"><img src="logo.jpg" alt="30 Seconds of Interviews logo"></a>
 
 <h1 align="center">
